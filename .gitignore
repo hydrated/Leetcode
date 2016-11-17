@@ -1,11 +1,12 @@
-dea
+idea
 build
+lib/src/main/java/com/hahahateam/hydra
 
 *.iml
 .gradle
 /local.properties
 /.idea/workspace.xml
-/.idea/libraries
+/.idea
 .DS_Store
 /build
 /captures
