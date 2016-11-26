@@ -8,7 +8,7 @@ import java.util.Stack;
  */
 
 public class BSTIterator {
-    
+
     TreeNode root ;
     Stack<TreeNode> stack = new Stack<>();
 
